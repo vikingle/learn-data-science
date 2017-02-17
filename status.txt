@@ -1,6 +1,6 @@
-/c/users/vingle2/Dropbox/Public/learn-data-science
-
+/c/users/vingle2/Dropbox/Public/learn-data-science 
 I'm doing more here!:
 now i'm adding information from the mac!
- fn (): 
-I' not really seeting the benefit of this new term.  
+ fn (): I' not really seeting the benefit of this new term.  
+mke this a js file? 
+anyway. 
